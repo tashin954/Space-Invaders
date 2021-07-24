@@ -34,7 +34,7 @@ the player loses a ship and the game ends.
 ### Cloning the Repository
 
 ```
-$ git clone https://github.com/bryanlds/Alien-Invasion.git
+$ git clone https://github.com/tashin954/Space-Invaders
 
 $ cd Alien-Invasion
 ```
